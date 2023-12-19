@@ -1,0 +1,28 @@
+{
+  "general": {
+    "privacyPolicy": "Privacy policy",
+    "terms": "terms and conditions",
+    "title": "Knowledge Base"
+  },
+  "fileUpload": {
+    "uploadDocuments": "Upload your documents",
+    "limitHint": "You'll be able to start a conversation based on the document uploaded. You can upgrade your account to increase your limits",
+    "uploadHint": "Click to Upload or drag and drop",
+    "supportedFormats": "Supported formats: {{formats}}",
+    "agreeWith": "By starting a conversation, you agree with our",
+    "uploadFromFile": "Upload Documents",
+    "uploadFromUrl": "Upload Scanned PDF",
+    "startConversation": "Start conversation",
+    "uploading": "Uploading document...",
+    "processing": "Processing document..."
+  },
+  "conversation": {
+    "new": "New conversation",
+    "chatbot": "Chatbot",
+    "summary": "Summarize",
+    "askQuestion": "Ask any question about your document",
+    "clear": "Clear chat history",
+    "delete": "Delete document",
+    "addDocuments": "Add document"
+  }
+}

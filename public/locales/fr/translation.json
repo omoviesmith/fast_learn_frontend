@@ -1,0 +1,28 @@
+{
+  "general": {
+    "privacyPolicy": "Politique de confidentialité",
+    "terms": "termes et conditions",
+    "title": "Base de connaissances"
+  },
+  "fileUpload": {
+    "uploadDocuments": "Téléchargez vos documents",
+    "limitHint": "Vous pourrez démarrer une conversation basée sur le document téléchargé. Vous pouvez mettre à jour votre compte pour augmenter vos limites",
+    "uploadHint": "Cliquez pour télécharger ou faites glisser et déposez",
+    "supportedFormats": "Formats pris en charge: {{formats}}",
+    "agreeWith": "En démarrant une conversation, vous êtes d'accord avec notre",
+    "uploadFromFile": "Télécharger des documents",
+    "uploadFromUrl": "Télécharger le PDF numérisé",
+    "startConversation": "Démarrer la conversation",
+    "uploading": "Téléchargement du document...",
+    "processing": "Traitement du document..."
+  },
+  "conversation": {
+    "new": "Nouvelle conversation",
+    "chatbot": "Chatbot",
+    "summary": "Résumer",
+    "askQuestion": "Posez n'importe quelle question sur votre document",
+    "clear": "Effacer l'historique des discussions",
+    "delete": "Supprimer le document",
+    "addDocuments": "Ajouter un document"
+  }
+}

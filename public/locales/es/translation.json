@@ -1,0 +1,28 @@
+{
+  "general": {
+    "privacyPolicy": "Política de privacidad",
+    "terms": "términos y condiciones",
+    "title": "Base de conocimientos"
+  },
+  "fileUpload": {
+    "uploadDocuments": "Sube tus documentos",
+    "limitHint": "Podrás iniciar una conversación basada en el documento cargado. Puedes actualizar tu cuenta para aumentar tus límites",
+    "uploadHint": "Haz clic para cargar o arrastra y suelta",
+    "supportedFormats": "Formatos admitidos: {{formats}}",
+    "agreeWith": "Al iniciar una conversación, estás de acuerdo con nuestro",
+    "uploadFromFile": "Subir Documentos",
+    "uploadFromUrl": "Subir PDF escaneado",
+    "startConversation": "Iniciar conversación",
+    "uploading": "Subiendo documento...",
+    "processing": "Procesando documento..."
+  },
+  "conversation": {
+    "new": "Nueva conversación",
+    "chatbot": "Chatbot",
+    "summary": "Resumir",
+    "askQuestion": "Haz cualquier pregunta sobre tu documento",
+    "clear": "Borrar historial de chat",
+    "delete": "Eliminar documento",
+    "addDocuments": "Agregar documento"
+  }
+}
