@@ -234,7 +234,7 @@ export default function FileUploadPage() {
         )}
 
         {/* More content */}
-        <div className="px-2 text-sm md:px-5 lg:px-10">
+        {/* <div className="px-2 text-sm md:px-5 lg:px-10">
           <p>{t("fileUpload.agreeWith")}</p>
 
           <div className="flex gap-1">
@@ -246,7 +246,7 @@ export default function FileUploadPage() {
               {t("general.terms")}
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

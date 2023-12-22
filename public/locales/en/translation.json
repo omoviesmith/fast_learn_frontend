@@ -6,7 +6,7 @@
   },
   "fileUpload": {
     "uploadDocuments": "Upload your documents",
-    "limitHint": "You'll be able to start a conversation based on the document uploaded. You can upgrade your account to increase your limits",
+    "limitHint": "You'll be able to start a conversation based on the document uploaded URL entered. For URLs, please enter a single page domain instead of the entire website domain to avoid exhausting the web scraping limit.",
     "uploadHint": "Click to Upload or drag and drop",
     "supportedFormats": "Supported formats: {{formats}}",
     "agreeWith": "By starting a conversation, you agree with our",

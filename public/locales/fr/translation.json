@@ -6,7 +6,7 @@
   },
   "fileUpload": {
     "uploadDocuments": "Téléchargez vos documents",
-    "limitHint": "Vous pourrez démarrer une conversation basée sur le document téléchargé. Vous pouvez mettre à jour votre compte pour augmenter vos limites",
+    "limitHint": "Vous pourrez démarrer une conversation basée sur l'URL du document téléchargé. Pour les URL, veuillez entrer un seul domaine de page au lieu du domaine entier du site Web afin d'éviter de dépasser la limite de scrapping du web.",
     "uploadHint": "Cliquez pour télécharger ou faites glisser et déposez",
     "supportedFormats": "Formats pris en charge: {{formats}}",
     "agreeWith": "En démarrant une conversation, vous êtes d'accord avec notre",

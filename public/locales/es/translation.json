@@ -6,7 +6,7 @@
   },
   "fileUpload": {
     "uploadDocuments": "Sube tus documentos",
-    "limitHint": "Podrás iniciar una conversación basada en el documento cargado. Puedes actualizar tu cuenta para aumentar tus límites",
+    "limitHint": "Podrás iniciar una conversación basada en la URL del documento que hayas subido. Para las URL, por favor introduce solo el dominio de la página individual en lugar de todo el dominio del sitio web para evitar agotar el límite de extracción de información en la web.",
     "uploadHint": "Haz clic para cargar o arrastra y suelta",
     "supportedFormats": "Formatos admitidos: {{formats}}",
     "agreeWith": "Al iniciar una conversación, estás de acuerdo con nuestro",
