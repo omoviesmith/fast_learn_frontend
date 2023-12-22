@@ -11,7 +11,7 @@
     "supportedFormats": "Supported formats: {{formats}}",
     "agreeWith": "By starting a conversation, you agree with our",
     "uploadFromFile": "Upload Documents",
-    "uploadFromUrl": "Upload Scanned PDF",
+    "uploadFromUrl": "Enter URL",
     "startConversation": "Start conversation",
     "uploading": "Uploading document...",
     "processing": "Processing document..."

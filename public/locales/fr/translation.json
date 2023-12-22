@@ -11,7 +11,7 @@
     "supportedFormats": "Formats pris en charge: {{formats}}",
     "agreeWith": "En démarrant une conversation, vous êtes d'accord avec notre",
     "uploadFromFile": "Télécharger des documents",
-    "uploadFromUrl": "Télécharger le PDF numérisé",
+    "uploadFromUrl": "Entrer l'URL",
     "startConversation": "Démarrer la conversation",
     "uploading": "Téléchargement du document...",
     "processing": "Traitement du document..."

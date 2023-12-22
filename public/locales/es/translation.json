@@ -11,7 +11,7 @@
     "supportedFormats": "Formatos admitidos: {{formats}}",
     "agreeWith": "Al iniciar una conversación, estás de acuerdo con nuestro",
     "uploadFromFile": "Subir Documentos",
-    "uploadFromUrl": "Subir PDF escaneado",
+    "uploadFromUrl": "Introducir URL",
     "startConversation": "Iniciar conversación",
     "uploading": "Subiendo documento...",
     "processing": "Procesando documento..."

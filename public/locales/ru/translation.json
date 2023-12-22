@@ -11,7 +11,7 @@
     "supportedFormats": "Поддерживаемые форматы: {{formats}}",
     "agreeWith": "Начав разговор, вы соглашаетесь с нашими",
     "uploadFromFile": "Загрузить документы",
-    "uploadFromUrl": "Загрузить отсканированный PDF",
+    "uploadFromUrl": "Введите URL",
     "startConversation": "Начать разговор",
     "uploading": "Загрузка документа...",
     "processing": "Обработка документа..."
